@@ -1,0 +1,11 @@
+category,amount,unit,date,description,transport_type
+transport,50,km,2024-01-15,Commute to work,car
+transport,20,km,2024-01-15,Grocery shopping,bus
+transport,500,km,2024-01-16,Weekend trip,flight
+energy,120,kWh,2024-01-15,Monthly electricity bill,
+food,1.5,kg,2024-01-15,Beef dinner,beef
+food,0.5,kg,2024-01-16,Chicken lunch,chicken
+purchase,75,USD,2024-01-15,Online shopping,
+purchase,25,EUR,2024-01-16,Book purchase,
+transport,15,km,2024-01-17,Doctor visit,car
+energy,45,kWh,2024-01-17,Heating usage,

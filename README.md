@@ -47,6 +47,32 @@ npm run dev
 
 4. Open your browser and navigate to `http://localhost:8080`
 
+## Building for Production
+
+To create a production-ready static website:
+
+```bash
+npm run build
+```
+
+This creates an optimized build in the `dist/` folder that can be deployed to any static hosting service.
+
+### Preview Production Build
+
+Test your production build locally:
+
+```bash
+npm run preview
+```
+
+### Deployment
+
+The `dist/` folder contains everything needed for deployment. See [DEPLOYMENT.md](./DEPLOYMENT.md) for detailed deployment instructions to:
+- Netlify
+- Vercel
+- GitHub Pages
+- Any static hosting service
+
 ## Project Structure
 
 ```
